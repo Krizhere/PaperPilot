@@ -1,0 +1,24 @@
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+venv/
+.venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Common local tooling artifacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+
+/Data/
+/apps/chroma_db/
+/apps/*
+!/apps/PaperPilot.py

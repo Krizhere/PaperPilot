@@ -1,0 +1,30 @@
+# LangChain Core
+langchain
+langchain_community
+langchain-core
+
+#Groq Integration
+langchain-groq
+
+#vector db
+langchain_chroma
+
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+#Framework
+streamlit
+
+#memory for agent
+langgraph
+
